@@ -1,7 +1,6 @@
 # PowerBI
 
-Repo for usefull Power BI Related Stuff
-
+Welcome to my repository including useful Power BI stuff.
 
 
 --- Useful Links---
